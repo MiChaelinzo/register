@@ -9,6 +9,7 @@
     "record": {
         "A": ["213.188.192.2"],
         "AAAA": ["2a09:8280:1:9032:60eb:1797:5542:d0db"]
+        "TXT": ["vc-domain-verify=cyber.localplayer.dev,80d89d41d34c81df0904"]
     },
 
     "proxied": true
